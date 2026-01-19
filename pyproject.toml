@@ -1,0 +1,7 @@
+[project]
+name = "uv-ptoject"
+version = "0.1.0"
+description = "Interactive Task Manager TUI"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["textual"]
